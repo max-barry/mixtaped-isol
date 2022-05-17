@@ -1,0 +1,85 @@
+{
+  "name": "@mixtaped-isol/client",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "icons:regenerate": "node ./src/fasteners/icon/generate-svg-to-react.js",
+    "icons:types": "node ./src/fasteners/icon/generate-svg-to-types.js",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@emotion/css": "^11.9.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@use-gesture/react": "^10.2.13",
+    "anylogger": "^1.0.11",
+    "compass-vertical-rhythm": "^1.4.5",
+    "date-fns": "^2.28.0",
+    "fuse.js": "^6.6.2",
+    "node-vibrant": "3.1.6",
+    "polished": "^4.2.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "5.0.1",
+    "react-spring": "^9.4.5",
+    "styled-breakpoints": "^11.1.0",
+    "ulog": "^2.0.0-beta.19",
+    "valtio": "^1.6.0",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@mdx-js/react": "^1.6.22",
+    "@storybook/addon-actions": "^6.4.22",
+    "@storybook/addon-docs": "^6.4.22",
+    "@storybook/addon-essentials": "^6.4.22",
+    "@storybook/addon-interactions": "^6.4.22",
+    "@storybook/addon-links": "^6.4.22",
+    "@storybook/builder-webpack5": "^6.4.22",
+    "@storybook/manager-webpack5": "^6.4.22",
+    "@storybook/node-logger": "^6.4.22",
+    "@storybook/preset-create-react-app": "^4.1.0",
+    "@storybook/react": "^6.4.22",
+    "@storybook/testing-library": "^0.0.11",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.2.0",
+    "@testing-library/user-event": "^14.1.1",
+    "@types/compass-vertical-rhythm": "^1.4.2",
+    "@types/glob": "^7.2.0",
+    "@types/jest": "^27.5.0",
+    "@types/node": "^16.11.33",
+    "@types/react": "^18.0.9",
+    "@types/react-dom": "^18.0.3",
+    "dotenv": "^16.0.0",
+    "glob": "^8.0.1",
+    "node-html-parser": "^5.3.3",
+    "webpack": "^5.72.0"
+  },
+  "eslintConfig": {
+    "overrides": [
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      }
+    ]
+  }
+}

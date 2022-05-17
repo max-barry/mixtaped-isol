@@ -1,0 +1,246 @@
+[
+    {
+        "artistId": 127434126,
+        "collectionId": 986595124,
+        "trackId": 986595124,
+        "artistName": "ESPN, Zach Lowe",
+        "collectionName": "The Lowe Post",
+        "artistViewUrl": "https://podcasts.apple.com/us/artist/espn/127434126?uo=4",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/the-lowe-post/id986595124?uo=4",
+        "feedUrl": "http://www.espn.com/espnradio/feeds/rss/podcast.xml?id=10528553",
+        "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/87/80/46/8780469b-84b0-81e7-8521-6359a0570d27/source/30x30bb.jpg",
+        "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/87/80/46/8780469b-84b0-81e7-8521-6359a0570d27/source/60x60bb.jpg",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/87/80/46/8780469b-84b0-81e7-8521-6359a0570d27/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "Sports",
+        "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/87/80/46/8780469b-84b0-81e7-8521-6359a0570d27/source/600x600bb.jpg",
+        "genreIds": [
+            "1545",
+            "26"
+        ],
+        "genres": [
+            "Sports",
+            "Podcasts"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=986595124",
+        "contentAdvisoryRating": "Clean"
+    },
+    {
+        "artistId": 643055307,
+        "collectionId": 643055307,
+        "trackId": 643055307,
+        "artistName": "Dave Anthony and Gareth Reynolds",
+        "collectionName": "The Dollop with Dave Anthony and Gareth Reynolds",
+        "artistViewUrl": "https://podcasts.apple.com/us/artist/all-things-comedy/594344196?uo=4",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/the-dollop-with-dave-anthony-and-gareth-reynolds/id643055307?uo=4",
+        "feedUrl": "http://thedollop.libsyn.com/rss",
+        "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/4a/39/bf/4a39bf3f-2d4d-52a1-4266-4a1e7b0ec723/source/30x30bb.jpg",
+        "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/4a/39/bf/4a39bf3f-2d4d-52a1-4266-4a1e7b0ec723/source/60x60bb.jpg",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/4a/39/bf/4a39bf3f-2d4d-52a1-4266-4a1e7b0ec723/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "Comedy",
+        "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/4a/39/bf/4a39bf3f-2d4d-52a1-4266-4a1e7b0ec723/source/600x600bb.jpg",
+        "genreIds": [
+            "1303",
+            "26",
+            "1489",
+            "1487"
+        ],
+        "genres": [
+            "Comedy",
+            "Podcasts",
+            "News",
+            "History"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=643055307",
+        "contentAdvisoryRating": "Clean"
+    },
+    {
+        "artistId": 407542375,
+        "collectionId": 409287913,
+        "trackId": 409287913,
+        "artistName": "Earwolf and Paul Scheer, June Diane Raphael, Jason Mantzoukas",
+        "collectionName": "How Did This Get Made?",
+        "artistViewUrl": "https://podcasts.apple.com/us/artist/earwolf/407542375?uo=4",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/how-did-this-get-made/id409287913?uo=4",
+        "feedUrl": "https://rss.art19.com/how-did-this-get-made",
+        "artworkUrl30": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/94/93/fb/9493fb97-92b2-7454-10a8-677fbbae708b/source/30x30bb.jpg",
+        "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/94/93/fb/9493fb97-92b2-7454-10a8-677fbbae708b/source/60x60bb.jpg",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/94/93/fb/9493fb97-92b2-7454-10a8-677fbbae708b/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "Comedy",
+        "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/94/93/fb/9493fb97-92b2-7454-10a8-677fbbae708b/source/600x600bb.jpg",
+        "genreIds": [
+            "1303",
+            "26"
+        ],
+        "genres": [
+            "Comedy",
+            "Podcasts"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=409287913",
+        "contentAdvisoryRating": "Explicit"
+    },
+    {
+        "artistId": 125443881,
+        "collectionId": 290783428,
+        "trackId": 290783428,
+        "artistName": "NPR",
+        "collectionName": "Planet Money",
+        "artistViewUrl": "https://podcasts.apple.com/us/artist/npr/125443881?uo=4",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/planet-money/id290783428?uo=4",
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510289",
+        "artworkUrl30": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/39/14/e2/3914e24c-c2dc-4bfa-2ac9-efcf15f07bf2/source/30x30bb.jpg",
+        "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/39/14/e2/3914e24c-c2dc-4bfa-2ac9-efcf15f07bf2/source/60x60bb.jpg",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/39/14/e2/3914e24c-c2dc-4bfa-2ac9-efcf15f07bf2/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "Business",
+        "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/39/14/e2/3914e24c-c2dc-4bfa-2ac9-efcf15f07bf2/source/600x600bb.jpg",
+        "genreIds": [
+            "1321",
+            "26",
+            "1489"
+        ],
+        "genres": [
+            "Business",
+            "Podcasts",
+            "News"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=290783428"
+    },
+    {
+        "artistId": 201671138,
+        "collectionId": 201671138,
+        "trackId": 201671138,
+        "artistName": "This American Life",
+        "collectionName": "This American Life",
+        "artistViewUrl": "https://podcasts.apple.com/us/artist/wbez/364380278?uo=4",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=4",
+        "feedUrl": "http://feed.thisamericanlife.org/talpodcast",
+        "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f6/cf/64/f6cf64b9-dbc6-0e18-d5dc-ed3e2506c188/source/30x30bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f6/cf/64/f6cf64b9-dbc6-0e18-d5dc-ed3e2506c188/source/60x60bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f6/cf/64/f6cf64b9-dbc6-0e18-d5dc-ed3e2506c188/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "Personal Journals",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f6/cf/64/f6cf64b9-dbc6-0e18-d5dc-ed3e2506c188/source/600x600bb.jpg",
+        "genreIds": [
+            "1302",
+            "26",
+            "1324",
+            "1301"
+        ],
+        "genres": [
+            "Personal Journals",
+            "Podcasts",
+            "Society & Culture",
+            "Arts"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=201671138",
+        "contentAdvisoryRating": "Explicit"
+    },
+    {
+        "artistId": 173001861,
+        "collectionId": 173001861,
+        "trackId": 173001861,
+        "artistName": "Dan Carlin",
+        "collectionName": "Dan Carlin's Hardcore History",
+        "artistViewUrl": "https://podcasts.apple.com/us/artist/wizzard-media/256201037?uo=4",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861?uo=4",
+        "feedUrl": "http://feeds.feedburner.com/dancarlin/history?format=xml",
+        "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/2b/d8/1b/2bd81b19-db2f-4ca2-f1b2-7c43d53f7be1/source/30x30bb.jpg",
+        "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/2b/d8/1b/2bd81b19-db2f-4ca2-f1b2-7c43d53f7be1/source/60x60bb.jpg",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/2b/d8/1b/2bd81b19-db2f-4ca2-f1b2-7c43d53f7be1/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "Society & Culture",
+        "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/2b/d8/1b/2bd81b19-db2f-4ca2-f1b2-7c43d53f7be1/source/600x600bb.jpg",
+        "genreIds": [
+            "1324",
+            "26",
+            "1487"
+        ],
+        "genres": [
+            "Society & Culture",
+            "Podcasts",
+            "History"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=173001861",
+        "contentAdvisoryRating": "Clean"
+    },
+    {
+        "artistId": 1465286477,
+        "collectionId": 1465286477,
+        "trackId": 1465286477,
+        "artistName": "The Ringer",
+        "collectionName": "Ringer Dish",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/ringer-dish/id1465286477?uo=4",
+        "feedUrl": "https://rss.art19.com/ringer-dish",
+        "artworkUrl30": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/95/49/01/9549019d-79ac-f9e9-938b-028d4caf06d5/source/30x30bb.jpg",
+        "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/95/49/01/9549019d-79ac-f9e9-938b-028d4caf06d5/source/60x60bb.jpg",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/95/49/01/9549019d-79ac-f9e9-938b-028d4caf06d5/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "TV & Film",
+        "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/95/49/01/9549019d-79ac-f9e9-938b-028d4caf06d5/source/600x600bb.jpg",
+        "genreIds": [
+            "1309",
+            "26"
+        ],
+        "genres": [
+            "TV & Film",
+            "Podcasts"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=1465286477",
+        "contentAdvisoryRating": "Explicit"
+    },
+    {
+        "artistId": 1439252196,
+        "collectionId": 1439252196,
+        "trackId": 1439252196,
+        "artistName": "The Ringer",
+        "collectionName": "The Big Picture",
+        "artistViewUrl": "https://podcasts.apple.com/us/artist/the-ringer/1043703531?uo=4",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/the-big-picture/id1439252196?uo=4",
+        "feedUrl": "https://rss.art19.com/the-big-picture",
+        "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/36/39/8d/36398d9b-c0fd-e51d-d851-5fee7fb7783d/source/30x30bb.jpg",
+        "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/36/39/8d/36398d9b-c0fd-e51d-d851-5fee7fb7783d/source/60x60bb.jpg",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/36/39/8d/36398d9b-c0fd-e51d-d851-5fee7fb7783d/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "TV & Film",
+        "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/36/39/8d/36398d9b-c0fd-e51d-d851-5fee7fb7783d/source/600x600bb.jpg",
+        "genreIds": [
+            "1309",
+            "26"
+        ],
+        "genres": [
+            "TV & Film",
+            "Podcasts"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=1439252196",
+        "contentAdvisoryRating": "Clean"
+    },
+    {
+        "artistId": 1268527882,
+        "collectionId": 1268527882,
+        "trackId": 1268527882,
+        "artistName": "The Ringer & Bill Simmons",
+        "collectionName": "The Rewatchables",
+        "artistViewUrl": "https://podcasts.apple.com/us/artist/the-ringer/1043703531?uo=4",
+        "collectionViewUrl": "https://podcasts.apple.com/us/podcast/the-rewatchables/id1268527882?uo=4",
+        "feedUrl": "https://rss.art19.com/the-rewatchables",
+        "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/17/65/95/17659525-9f39-3c35-6619-d0881e5c1cfc/source/30x30bb.jpg",
+        "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/17/65/95/17659525-9f39-3c35-6619-d0881e5c1cfc/source/60x60bb.jpg",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/17/65/95/17659525-9f39-3c35-6619-d0881e5c1cfc/source/100x100bb.jpg",
+        "country": "USA",
+        "primaryGenreName": "TV & Film",
+        "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/17/65/95/17659525-9f39-3c35-6619-d0881e5c1cfc/source/600x600bb.jpg",
+        "genreIds": [
+            "1309",
+            "26"
+        ],
+        "genres": [
+            "TV & Film",
+            "Podcasts"
+        ],
+        "url": "https://itunes.apple.com/us/lookup?id=1268527882",
+        "contentAdvisoryRating": "Explicit"
+    }
+]

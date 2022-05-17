@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "search.exclude": {
+        ".yarn/cache": true,
+        "packages/client/src/fasteners/icon/svgs/**/*.svg": true
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react-jsx"
+  },
+  "exclude": [
+    "src/fasteners/icon/svgs"
+  ],
+  "include": [
+    "src",
+    "../../type-utilities",
+    "type-overloads"
+  ]
+}

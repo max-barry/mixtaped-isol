@@ -1,0 +1,20 @@
+{
+  "name": "storybook/mountain-vista.jpeg",
+  "bucket": "mxbry-5b433.appspot.com",
+  "contentType": "image/jpeg",
+  "metageneration": 1,
+  "generation": 1651928816923,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "657dd132-80c4-4310-9f41-682d4ffa5f1d"
+  ],
+  "etag": "rgMl3L5xKARcr03AP1dNnk7IggE",
+  "timeCreated": "2022-05-07T13:06:56.922Z",
+  "updated": "2022-05-07T13:06:56.947Z",
+  "size": 6146112,
+  "md5Hash": "Ij6ulhqY9OHQb9CbC8jXyQ==",
+  "crc32c": "2759095176"
+}
