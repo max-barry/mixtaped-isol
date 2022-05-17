@@ -14,6 +14,7 @@
         "start:storybook": "yarn workspace @mixtaped-isol/client storybook",
         "start:firebase": "firebase emulators:start --import=__fixtures__/firebase",
         "deploy:client": "yarn build:client && firebase deploy --only hosting:mixtaped-isol-4483928182",
+        "deploy:functions": "yarn workspace @mixtaped-isol/functions deploy",
         "build:client": "yarn workspace @mixtaped-isol/client build",
         "build:functions": "yarn workspace @mixtaped-isol/functions build",
         "add:client": "yarn workspace @mixtaped-isol/client add",
