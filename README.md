@@ -1,3 +1,7 @@
+### 🚨 May 2022 Update
+
+This vertical slice was edited in May 2022, and re-uploaded to a fresh repository to i. remove work that was done in a collaboration with others; ii. remove some work that isn't public-proof; and iii. be usable as reviewable code at a publicly available link. The full isolated slice can be found at the private link shared elsewhere.
+
 ## `mixtaped-isol`
 
 This is a vertical slice of a project worked on over a single sprint in 2019, with a few newer ideas thrown in.
